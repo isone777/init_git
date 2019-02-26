@@ -3,3 +3,4 @@ git‚Ä‚·‚Æ
 ’Ç‰Á
 xxx
 git status
+git diff
